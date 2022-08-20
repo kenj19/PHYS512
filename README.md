@@ -1,2 +1,2 @@
 # PHYS512
-Class repository containing problem set solutions and associated files.
+Problem set solutions and associated files for Computational Physics with Applications (PHYS 512) @ McGill University.
